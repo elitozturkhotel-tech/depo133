@@ -1,0 +1,28 @@
+{
+  "articles": 100,
+  "group": "sacekimi-genel",
+  "letters": [
+    702,
+    899
+  ],
+  "title": [
+    45,
+    59
+  ],
+  "description": [
+    140,
+    155
+  ],
+  "paragraphs": {
+    "4": 54,
+    "5": 3,
+    "3": 43
+  },
+  "exact_sentence_issues": 0,
+  "near_sentence_issues_at_point_eight": 0,
+  "shared_seven_word_spans": 0,
+  "comparison_previous_articles": 500,
+  "external_web_originality_percentage": null,
+  "zip_sha256": "6d7b2d9e32d8260b0510e9edf248c47df77045803483b75d9917872974b461ee",
+  "zip_bytes": 103220
+}
