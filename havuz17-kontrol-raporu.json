@@ -1,0 +1,28 @@
+{
+  "articles": 50,
+  "group": "cekici-cankaya",
+  "letters": [
+    757,
+    900
+  ],
+  "title": [
+    48,
+    60
+  ],
+  "description": [
+    140,
+    155
+  ],
+  "paragraphs": {
+    "4": 32,
+    "5": 2,
+    "3": 16
+  },
+  "exact_sentence_issues": 0,
+  "near_sentence_issues_at_point_eight": 0,
+  "shared_seven_word_spans": 0,
+  "comparison_previous_articles": 680,
+  "external_web_originality_percentage": null,
+  "zip_bytes": 52313,
+  "zip_sha256": "bceffb9b30361a114d4f0d9736ac898e0a544b956485cccb8c95dcfb14c2c7cc"
+}
