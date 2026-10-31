@@ -1,0 +1,63 @@
+{
+  "files": 500,
+  "counts": {
+    "burun-genel": 35,
+    "meme-genel": 35,
+    "yuz-genel": 30,
+    "vucut-genel": 30,
+    "dolgu-botoks-genel": 30,
+    "estetik-karar": 20,
+    "dis-estetigi": 20,
+    "sacekimi-genel": 100,
+    "psikolog-genel": 100,
+    "lazer-genel": 50,
+    "dis-genel": 50
+  },
+  "letters_min": 704,
+  "letters_max": 900,
+  "title_min": 45,
+  "title_max": 61,
+  "description_min": 140,
+  "description_max": 155,
+  "paragraphs": {
+    "3": 162,
+    "4": 289,
+    "5": 44,
+    "6": 5
+  },
+  "exact_or_near_sentence_issues": 0,
+  "shared_seven_word_spans": 0,
+  "external_web_originality_percentage": null,
+  "archives": [
+    {
+      "archive": "havuz15-100.zip",
+      "articles": 100,
+      "bytes": 99179,
+      "sha256": "44887157031caffaf927a21f4c52501d0c3f753d882bf9ec2326b9c56848f4cc"
+    },
+    {
+      "archive": "havuz15-200.zip",
+      "articles": 200,
+      "bytes": 201217,
+      "sha256": "e2643273c3bd68265b49a66dcc8a442a04b7394cf3257ca614c30c838a1575ad"
+    },
+    {
+      "archive": "havuz15-300.zip",
+      "articles": 300,
+      "bytes": 303643,
+      "sha256": "9f52cb75cb1f69520d3a7f053846ef4fb7133dc367a033b62df84b0c51006b89"
+    },
+    {
+      "archive": "havuz15-400.zip",
+      "articles": 400,
+      "bytes": 403638,
+      "sha256": "075686c5a7ed4a1b79b249644e947e50630bae4d675c70b4a0eb53495f855cd0"
+    },
+    {
+      "archive": "havuz15.zip",
+      "articles": 500,
+      "bytes": 501229,
+      "sha256": "f63475ee5e9be5ae759cd50a987e5e217416284af4ece8da9766db37fbd3cafb"
+    }
+  ]
+}
