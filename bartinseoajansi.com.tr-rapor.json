@@ -1,0 +1,225 @@
+{
+  "domain": "bartinseoajansi.com.tr",
+  "il": "Bartın",
+  "ilceler": [
+    "Merkez",
+    "Amasra",
+    "Kurucaşile",
+    "Ulus"
+  ],
+  "dosya_sayisi": 15,
+  "dosyalar": [
+    {
+      "dosya": "ana-sayfa.html",
+      "harf_sayisi": 7988,
+      "gorunur_karakter_sayisi": 9322,
+      "meta_karakter_sayisi": 151,
+      "ic_baglantilar": [
+        "HIZMET:teknik-seo-site-hizi",
+        "HIZMET:yerel-seo-google-haritalar",
+        "HIZMET:icerik-site-ici-seo",
+        "HIZMET:web-tasarim",
+        "HIZMET:google-ads-yonetimi",
+        "YAZI:1",
+        "YAZI:2",
+        "ILCE:merkez",
+        "ILCE:amasra",
+        "ILCE:kurucasile",
+        "ILCE:ulus",
+        "YAZI:3",
+        "YAZI:4",
+        "YAZI:5"
+      ]
+    },
+    {
+      "dosya": "hizmet-google-ads-yonetimi.html",
+      "harf_sayisi": 2095,
+      "gorunur_karakter_sayisi": 2437,
+      "meta_karakter_sayisi": 151,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:web-tasarim"
+      ]
+    },
+    {
+      "dosya": "hizmet-icerik-site-ici-seo.html",
+      "harf_sayisi": 2150,
+      "gorunur_karakter_sayisi": 2499,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:web-tasarim"
+      ]
+    },
+    {
+      "dosya": "hizmet-teknik-seo-site-hizi.html",
+      "harf_sayisi": 2164,
+      "gorunur_karakter_sayisi": 2506,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:icerik-site-ici-seo"
+      ]
+    },
+    {
+      "dosya": "hizmet-web-tasarim.html",
+      "harf_sayisi": 2157,
+      "gorunur_karakter_sayisi": 2498,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:teknik-seo-site-hizi"
+      ]
+    },
+    {
+      "dosya": "hizmet-yerel-seo-google-haritalar.html",
+      "harf_sayisi": 2110,
+      "gorunur_karakter_sayisi": 2459,
+      "meta_karakter_sayisi": 148,
+      "ic_baglantilar": [
+        "ANA",
+        "YAZI:3"
+      ]
+    },
+    {
+      "dosya": "ilce-amasra.html",
+      "harf_sayisi": 1965,
+      "gorunur_karakter_sayisi": 2283,
+      "meta_karakter_sayisi": 150,
+      "ic_baglantilar": [
+        "ANA",
+        "YAZI:1"
+      ]
+    },
+    {
+      "dosya": "ilce-kurucasile.html",
+      "harf_sayisi": 1985,
+      "gorunur_karakter_sayisi": 2298,
+      "meta_karakter_sayisi": 152,
+      "ic_baglantilar": [
+        "ANA",
+        "YAZI:2"
+      ]
+    },
+    {
+      "dosya": "ilce-merkez.html",
+      "harf_sayisi": 1875,
+      "gorunur_karakter_sayisi": 2186,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:yerel-seo-google-haritalar"
+      ]
+    },
+    {
+      "dosya": "ilce-ulus.html",
+      "harf_sayisi": 1964,
+      "gorunur_karakter_sayisi": 2301,
+      "meta_karakter_sayisi": 146,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:icerik-site-ici-seo"
+      ]
+    },
+    {
+      "dosya": "yazi-01-konaklama-google-gorunurluk.html",
+      "harf_sayisi": 2962,
+      "gorunur_karakter_sayisi": 3440,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:amasra",
+        "ILCE:merkez"
+      ]
+    },
+    {
+      "dosya": "yazi-02-tekne-atolyeleri-google.html",
+      "harf_sayisi": 2828,
+      "gorunur_karakter_sayisi": 3291,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:kurucasile",
+        "ILCE:merkez"
+      ]
+    },
+    {
+      "dosya": "yazi-03-google-haritalar-bilgi-kontrolu.html",
+      "harf_sayisi": 2958,
+      "gorunur_karakter_sayisi": 3434,
+      "meta_karakter_sayisi": 147,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:merkez",
+        "ILCE:ulus"
+      ]
+    },
+    {
+      "dosya": "yazi-04-seo-sure-ucret.html",
+      "harf_sayisi": 2946,
+      "gorunur_karakter_sayisi": 3444,
+      "meta_karakter_sayisi": 152,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:amasra",
+        "ILCE:ulus"
+      ]
+    },
+    {
+      "dosya": "yazi-05-google-gorunmeme-hatalari.html",
+      "harf_sayisi": 2975,
+      "gorunur_karakter_sayisi": 3455,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:kurucasile",
+        "ILCE:merkez"
+      ]
+    }
+  ],
+  "hatalar": [],
+  "harf_sayimi": "HTML yorumları ve etiketleri çıkarılır; iç linklerde yalnız görünen bağlantı metni sayılır. Unicode alfabetik karakterler harf kabul edilir.",
+  "zip_dosyasi": "bartinseoajansi.com.tr.zip",
+  "zip_bayt": 29670,
+  "zip_sha256": "e536a1388a494f19d13175592df0e584a6d0d842fbb07303b7ff8779a845634a",
+  "kontroller": {
+    "harf_araliklari": true,
+    "meta_karakter_araligi": true,
+    "tum_ilceler": true,
+    "ana_sayfa_tum_ic_baglantilar": true,
+    "html_etiketleri": true,
+    "zip_crc_ve_birebir_icerik": true,
+    "ozgun_META_aciklamalari": true,
+    "yazi_sonu_analiz_ve_ANA_ilce_baglantilari": true
+  },
+  "notlar": [
+    "Harf sayımı görünür metindeki alfabetik karakterlere dayanır; boşluk ve noktalama dahil görünür karakter sayısı ayrıca verilir.",
+    "İlçe uzaklıkları sayısal fiyat/rakam yasağına uygun olarak merkeze göre konumsal ve ulaşım ilişkileriyle anlatılır.",
+    "Özgünlük denetimi mevcut yerel arşivlerle ve bu partideki sayfalarla sınırlıdır; internetin tamamında benzerlik ölçümü iddia edilmez."
+  ],
+  "dosya_listesi": [
+    "ana-sayfa.html",
+    "hizmet-google-ads-yonetimi.html",
+    "hizmet-icerik-site-ici-seo.html",
+    "hizmet-teknik-seo-site-hizi.html",
+    "hizmet-web-tasarim.html",
+    "hizmet-yerel-seo-google-haritalar.html",
+    "ilce-amasra.html",
+    "ilce-kurucasile.html",
+    "ilce-merkez.html",
+    "ilce-ulus.html",
+    "yazi-01-konaklama-google-gorunurluk.html",
+    "yazi-02-tekne-atolyeleri-google.html",
+    "yazi-03-google-haritalar-bilgi-kontrolu.html",
+    "yazi-04-seo-sure-ucret.html",
+    "yazi-05-google-gorunmeme-hatalari.html"
+  ],
+  "ozgunluk_kontrolu": {
+    "kapsam": "Bu partideki 205 HTML ve depodaki önceki 30 ZIP arşivi",
+    "onceki_benzersiz_cumle_sayisi": 73058,
+    "yeni_sayfalarda_tekrar_cumle": 0,
+    "tekrar_uzun_paragraf": 0,
+    "onceki_arsivlerle_birebir_cumle_eslesmesi": 0,
+    "yontem": "Büyük/küçük harf ve kesme işaretleri normalize edilir; en az yirmi alfabetik karakterli cümle ve başlıklar, en az altmış beş alfabetik karakterli paragraflar karşılaştırılır."
+  }
+}

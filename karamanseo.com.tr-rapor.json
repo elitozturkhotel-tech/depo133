@@ -1,0 +1,240 @@
+{
+  "domain": "karamanseo.com.tr",
+  "il": "Karaman",
+  "ilceler": [
+    "Merkez",
+    "Ayrancı",
+    "Başyayla",
+    "Ermenek",
+    "Kazımkarabekir",
+    "Sarıveliler"
+  ],
+  "dosya_sayisi": 17,
+  "dosyalar": [
+    {
+      "dosya": "ana-sayfa.html",
+      "harf_sayisi": 7711,
+      "gorunur_karakter_sayisi": 8994,
+      "meta_karakter_sayisi": 152,
+      "ic_baglantilar": [
+        "HIZMET:teknik-seo-site-hizi",
+        "HIZMET:yerel-seo-google-haritalar",
+        "HIZMET:icerik-site-ici-seo",
+        "HIZMET:web-tasarim",
+        "HIZMET:google-ads-yonetimi",
+        "ILCE:merkez",
+        "ILCE:ayranci",
+        "ILCE:basyayla",
+        "ILCE:ermenek",
+        "ILCE:kazimkarabekir",
+        "ILCE:sariveliler",
+        "YAZI:1",
+        "YAZI:2",
+        "YAZI:3",
+        "YAZI:4",
+        "YAZI:5"
+      ]
+    },
+    {
+      "dosya": "hizmet-google-ads-yonetimi.html",
+      "harf_sayisi": 1692,
+      "gorunur_karakter_sayisi": 1961,
+      "meta_karakter_sayisi": 150,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "hizmet-icerik-site-ici-seo.html",
+      "harf_sayisi": 1672,
+      "gorunur_karakter_sayisi": 1943,
+      "meta_karakter_sayisi": 149,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "hizmet-teknik-seo-site-hizi.html",
+      "harf_sayisi": 1692,
+      "gorunur_karakter_sayisi": 1968,
+      "meta_karakter_sayisi": 145,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "hizmet-web-tasarim.html",
+      "harf_sayisi": 1696,
+      "gorunur_karakter_sayisi": 1968,
+      "meta_karakter_sayisi": 148,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "hizmet-yerel-seo-google-haritalar.html",
+      "harf_sayisi": 1658,
+      "gorunur_karakter_sayisi": 1923,
+      "meta_karakter_sayisi": 154,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "ilce-ayranci.html",
+      "harf_sayisi": 1653,
+      "gorunur_karakter_sayisi": 1927,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "ilce-basyayla.html",
+      "harf_sayisi": 1759,
+      "gorunur_karakter_sayisi": 2035,
+      "meta_karakter_sayisi": 147,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "ilce-ermenek.html",
+      "harf_sayisi": 1690,
+      "gorunur_karakter_sayisi": 1961,
+      "meta_karakter_sayisi": 147,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "ilce-kazimkarabekir.html",
+      "harf_sayisi": 1707,
+      "gorunur_karakter_sayisi": 1987,
+      "meta_karakter_sayisi": 146,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "ilce-merkez.html",
+      "harf_sayisi": 1678,
+      "gorunur_karakter_sayisi": 1949,
+      "meta_karakter_sayisi": 148,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "ilce-sariveliler.html",
+      "harf_sayisi": 1815,
+      "gorunur_karakter_sayisi": 2093,
+      "meta_karakter_sayisi": 150,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "yazi-01-gida-ureticileri-google.html",
+      "harf_sayisi": 2450,
+      "gorunur_karakter_sayisi": 2833,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:merkez",
+        "ILCE:ayranci"
+      ]
+    },
+    {
+      "dosya": "yazi-02-elma-ureticileri-google.html",
+      "harf_sayisi": 2338,
+      "gorunur_karakter_sayisi": 2710,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:basyayla",
+        "ILCE:merkez"
+      ]
+    },
+    {
+      "dosya": "yazi-03-google-haritalar-dogru-bilgi.html",
+      "harf_sayisi": 2410,
+      "gorunur_karakter_sayisi": 2785,
+      "meta_karakter_sayisi": 150,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:kazimkarabekir",
+        "ILCE:ermenek"
+      ]
+    },
+    {
+      "dosya": "yazi-04-seo-suresi-ucret-kapsami.html",
+      "harf_sayisi": 2321,
+      "gorunur_karakter_sayisi": 2691,
+      "meta_karakter_sayisi": 150,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:ayranci",
+        "ILCE:sariveliler"
+      ]
+    },
+    {
+      "dosya": "yazi-05-google-gorunmeme-yedi-hata.html",
+      "harf_sayisi": 2305,
+      "gorunur_karakter_sayisi": 2690,
+      "meta_karakter_sayisi": 152,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:merkez",
+        "ILCE:ermenek"
+      ]
+    }
+  ],
+  "hatalar": [],
+  "harf_sayimi": "HTML yorumları ve etiketleri çıkarılır; iç linklerde yalnız görünen bağlantı metni sayılır. Unicode alfabetik karakterler harf kabul edilir.",
+  "zip_dosyasi": "karamanseo.com.tr.zip",
+  "zip_bayt": 28469,
+  "zip_sha256": "6561167f72b2ee2883bb0ec966c6e092b5cc38bce36b61a97a12f173ce990242",
+  "kontroller": {
+    "harf_araliklari": true,
+    "meta_karakter_araligi": true,
+    "tum_ilceler": true,
+    "ana_sayfa_tum_ic_baglantilar": true,
+    "html_etiketleri": true,
+    "zip_crc_ve_birebir_icerik": true,
+    "ozgun_META_aciklamalari": true,
+    "yazi_sonu_analiz_ve_ANA_ilce_baglantilari": true
+  },
+  "notlar": [
+    "Harf sayımı görünür metindeki alfabetik karakterlere dayanır; boşluk ve noktalama dahil görünür karakter sayısı ayrıca verilir.",
+    "İlçe uzaklıkları sayısal fiyat/rakam yasağına uygun olarak merkeze göre konumsal ve ulaşım ilişkileriyle anlatılır.",
+    "Özgünlük denetimi mevcut yerel arşivlerle ve bu partideki sayfalarla sınırlıdır; internetin tamamında benzerlik ölçümü iddia edilmez."
+  ],
+  "dosya_listesi": [
+    "ana-sayfa.html",
+    "hizmet-google-ads-yonetimi.html",
+    "hizmet-icerik-site-ici-seo.html",
+    "hizmet-teknik-seo-site-hizi.html",
+    "hizmet-web-tasarim.html",
+    "hizmet-yerel-seo-google-haritalar.html",
+    "ilce-ayranci.html",
+    "ilce-basyayla.html",
+    "ilce-ermenek.html",
+    "ilce-kazimkarabekir.html",
+    "ilce-merkez.html",
+    "ilce-sariveliler.html",
+    "yazi-01-gida-ureticileri-google.html",
+    "yazi-02-elma-ureticileri-google.html",
+    "yazi-03-google-haritalar-dogru-bilgi.html",
+    "yazi-04-seo-suresi-ucret-kapsami.html",
+    "yazi-05-google-gorunmeme-yedi-hata.html"
+  ],
+  "ozgunluk_kontrolu": {
+    "kapsam": "Bu partideki 205 HTML ve depodaki önceki 30 ZIP arşivi",
+    "onceki_benzersiz_cumle_sayisi": 73058,
+    "yeni_sayfalarda_tekrar_cumle": 0,
+    "tekrar_uzun_paragraf": 0,
+    "onceki_arsivlerle_birebir_cumle_eslesmesi": 0,
+    "yontem": "Büyük/küçük harf ve kesme işaretleri normalize edilir; en az yirmi alfabetik karakterli cümle ve başlıklar, en az altmış beş alfabetik karakterli paragraflar karşılaştırılır."
+  }
+}

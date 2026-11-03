@@ -1,0 +1,277 @@
+{
+  "domain": "bilecikseoajansi.com.tr",
+  "il": "Bilecik",
+  "ilceler": [
+    "Merkez",
+    "Bozüyük",
+    "Gölpazarı",
+    "İnhisar",
+    "Osmaneli",
+    "Pazaryeri",
+    "Söğüt",
+    "Yenipazar"
+  ],
+  "dosya_sayisi": 19,
+  "dosyalar": [
+    {
+      "dosya": "ana-sayfa.html",
+      "harf_sayisi": 7781,
+      "gorunur_karakter_sayisi": 9110,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "HIZMET:teknik-seo-site-hizi",
+        "HIZMET:yerel-seo-google-haritalar",
+        "HIZMET:icerik-site-ici-seo",
+        "HIZMET:web-tasarim",
+        "HIZMET:google-ads-yonetimi",
+        "YAZI:1",
+        "YAZI:2",
+        "ILCE:merkez",
+        "ILCE:bozuyuk",
+        "ILCE:osmaneli",
+        "ILCE:pazaryeri",
+        "ILCE:sogut",
+        "ILCE:golpazari",
+        "ILCE:inhisar",
+        "ILCE:yenipazar",
+        "YAZI:3",
+        "YAZI:4",
+        "YAZI:5"
+      ]
+    },
+    {
+      "dosya": "hizmet-google-ads-yonetimi.html",
+      "harf_sayisi": 2026,
+      "gorunur_karakter_sayisi": 2356,
+      "meta_karakter_sayisi": 149,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:web-tasarim"
+      ]
+    },
+    {
+      "dosya": "hizmet-icerik-site-ici-seo.html",
+      "harf_sayisi": 2022,
+      "gorunur_karakter_sayisi": 2356,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:teknik-seo-site-hizi"
+      ]
+    },
+    {
+      "dosya": "hizmet-teknik-seo-site-hizi.html",
+      "harf_sayisi": 2080,
+      "gorunur_karakter_sayisi": 2408,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:web-tasarim"
+      ]
+    },
+    {
+      "dosya": "hizmet-web-tasarim.html",
+      "harf_sayisi": 2074,
+      "gorunur_karakter_sayisi": 2409,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:icerik-site-ici-seo"
+      ]
+    },
+    {
+      "dosya": "hizmet-yerel-seo-google-haritalar.html",
+      "harf_sayisi": 2014,
+      "gorunur_karakter_sayisi": 2348,
+      "meta_karakter_sayisi": 152,
+      "ic_baglantilar": [
+        "ANA",
+        "YAZI:3"
+      ]
+    },
+    {
+      "dosya": "ilce-bozuyuk.html",
+      "harf_sayisi": 1796,
+      "gorunur_karakter_sayisi": 2102,
+      "meta_karakter_sayisi": 154,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:icerik-site-ici-seo"
+      ]
+    },
+    {
+      "dosya": "ilce-golpazari.html",
+      "harf_sayisi": 1804,
+      "gorunur_karakter_sayisi": 2096,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:icerik-site-ici-seo"
+      ]
+    },
+    {
+      "dosya": "ilce-inhisar.html",
+      "harf_sayisi": 1836,
+      "gorunur_karakter_sayisi": 2129,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA",
+        "YAZI:2"
+      ]
+    },
+    {
+      "dosya": "ilce-merkez.html",
+      "harf_sayisi": 1788,
+      "gorunur_karakter_sayisi": 2083,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:yerel-seo-google-haritalar"
+      ]
+    },
+    {
+      "dosya": "ilce-osmaneli.html",
+      "harf_sayisi": 1822,
+      "gorunur_karakter_sayisi": 2124,
+      "meta_karakter_sayisi": 152,
+      "ic_baglantilar": [
+        "ANA",
+        "YAZI:2"
+      ]
+    },
+    {
+      "dosya": "ilce-pazaryeri.html",
+      "harf_sayisi": 1864,
+      "gorunur_karakter_sayisi": 2169,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:teknik-seo-site-hizi"
+      ]
+    },
+    {
+      "dosya": "ilce-sogut.html",
+      "harf_sayisi": 1841,
+      "gorunur_karakter_sayisi": 2140,
+      "meta_karakter_sayisi": 154,
+      "ic_baglantilar": [
+        "ANA",
+        "YAZI:3"
+      ]
+    },
+    {
+      "dosya": "ilce-yenipazar.html",
+      "harf_sayisi": 1849,
+      "gorunur_karakter_sayisi": 2153,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:web-tasarim"
+      ]
+    },
+    {
+      "dosya": "yazi-01-seramik-isletmeleri-google.html",
+      "harf_sayisi": 2890,
+      "gorunur_karakter_sayisi": 3362,
+      "meta_karakter_sayisi": 147,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:bozuyuk",
+        "ILCE:merkez"
+      ]
+    },
+    {
+      "dosya": "yazi-02-yerel-urun-isletmeleri-google.html",
+      "harf_sayisi": 2902,
+      "gorunur_karakter_sayisi": 3391,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:osmaneli",
+        "ILCE:inhisar"
+      ]
+    },
+    {
+      "dosya": "yazi-03-google-haritalar-isletme-duzeni.html",
+      "harf_sayisi": 2903,
+      "gorunur_karakter_sayisi": 3373,
+      "meta_karakter_sayisi": 154,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:bozuyuk",
+        "ILCE:pazaryeri"
+      ]
+    },
+    {
+      "dosya": "yazi-04-seo-suresi-hizmet-bedeli.html",
+      "harf_sayisi": 2936,
+      "gorunur_karakter_sayisi": 3428,
+      "meta_karakter_sayisi": 152,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:merkez",
+        "ILCE:osmaneli"
+      ]
+    },
+    {
+      "dosya": "yazi-05-google-isletme-yedi-hata.html",
+      "harf_sayisi": 2984,
+      "gorunur_karakter_sayisi": 3475,
+      "meta_karakter_sayisi": 150,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:golpazari",
+        "ILCE:sogut"
+      ]
+    }
+  ],
+  "hatalar": [],
+  "harf_sayimi": "HTML yorumları ve etiketleri çıkarılır; iç linklerde yalnız görünen bağlantı metni sayılır. Unicode alfabetik karakterler harf kabul edilir.",
+  "zip_dosyasi": "bilecikseoajansi.com.tr.zip",
+  "zip_bayt": 34909,
+  "zip_sha256": "8bf265c42b9b899c918899fefdc2087583bad166cfc4d4fb9177485ce6a0a877",
+  "kontroller": {
+    "harf_araliklari": true,
+    "meta_karakter_araligi": true,
+    "tum_ilceler": true,
+    "ana_sayfa_tum_ic_baglantilar": true,
+    "html_etiketleri": true,
+    "zip_crc_ve_birebir_icerik": true,
+    "ozgun_META_aciklamalari": true,
+    "yazi_sonu_analiz_ve_ANA_ilce_baglantilari": true
+  },
+  "notlar": [
+    "Harf sayımı görünür metindeki alfabetik karakterlere dayanır; boşluk ve noktalama dahil görünür karakter sayısı ayrıca verilir.",
+    "İlçe uzaklıkları sayısal fiyat/rakam yasağına uygun olarak merkeze göre konumsal ve ulaşım ilişkileriyle anlatılır.",
+    "Özgünlük denetimi mevcut yerel arşivlerle ve bu partideki sayfalarla sınırlıdır; internetin tamamında benzerlik ölçümü iddia edilmez."
+  ],
+  "dosya_listesi": [
+    "ana-sayfa.html",
+    "hizmet-google-ads-yonetimi.html",
+    "hizmet-icerik-site-ici-seo.html",
+    "hizmet-teknik-seo-site-hizi.html",
+    "hizmet-web-tasarim.html",
+    "hizmet-yerel-seo-google-haritalar.html",
+    "ilce-bozuyuk.html",
+    "ilce-golpazari.html",
+    "ilce-inhisar.html",
+    "ilce-merkez.html",
+    "ilce-osmaneli.html",
+    "ilce-pazaryeri.html",
+    "ilce-sogut.html",
+    "ilce-yenipazar.html",
+    "yazi-01-seramik-isletmeleri-google.html",
+    "yazi-02-yerel-urun-isletmeleri-google.html",
+    "yazi-03-google-haritalar-isletme-duzeni.html",
+    "yazi-04-seo-suresi-hizmet-bedeli.html",
+    "yazi-05-google-isletme-yedi-hata.html"
+  ],
+  "ozgunluk_kontrolu": {
+    "kapsam": "Bu partideki 205 HTML ve depodaki önceki 30 ZIP arşivi",
+    "onceki_benzersiz_cumle_sayisi": 73058,
+    "yeni_sayfalarda_tekrar_cumle": 0,
+    "tekrar_uzun_paragraf": 0,
+    "onceki_arsivlerle_birebir_cumle_eslesmesi": 0,
+    "yontem": "Büyük/küçük harf ve kesme işaretleri normalize edilir; en az yirmi alfabetik karakterli cümle ve başlıklar, en az altmış beş alfabetik karakterli paragraflar karşılaştırılır."
+  }
+}

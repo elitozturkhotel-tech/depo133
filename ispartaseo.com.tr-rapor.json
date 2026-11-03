@@ -1,0 +1,337 @@
+{
+  "domain": "ispartaseo.com.tr",
+  "il": "Isparta",
+  "ilceler": [
+    "Merkez",
+    "Aksu",
+    "Atabey",
+    "Eğirdir",
+    "Gelendost",
+    "Gönen",
+    "Keçiborlu",
+    "Senirkent",
+    "Sütçüler",
+    "Şarkikaraağaç",
+    "Uluborlu",
+    "Yalvaç",
+    "Yenişarbademli"
+  ],
+  "dosya_sayisi": 24,
+  "dosyalar": [
+    {
+      "dosya": "ana-sayfa.html",
+      "harf_sayisi": 7930,
+      "gorunur_karakter_sayisi": 9267,
+      "meta_karakter_sayisi": 152,
+      "ic_baglantilar": [
+        "HIZMET:teknik-seo-site-hizi",
+        "HIZMET:yerel-seo-google-haritalar",
+        "HIZMET:icerik-site-ici-seo",
+        "HIZMET:web-tasarim",
+        "HIZMET:google-ads-yonetimi",
+        "YAZI:1",
+        "YAZI:2",
+        "ILCE:merkez",
+        "ILCE:aksu",
+        "ILCE:atabey",
+        "ILCE:egirdir",
+        "ILCE:gelendost",
+        "ILCE:gonen",
+        "ILCE:keciborlu",
+        "ILCE:senirkent",
+        "ILCE:sutculer",
+        "ILCE:sarkikaraagac",
+        "ILCE:uluborlu",
+        "ILCE:yalvac",
+        "ILCE:yenisarbademli",
+        "YAZI:3",
+        "YAZI:4",
+        "YAZI:5"
+      ]
+    },
+    {
+      "dosya": "hizmet-google-ads-yonetimi.html",
+      "harf_sayisi": 1863,
+      "gorunur_karakter_sayisi": 2167,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "hizmet-icerik-site-ici-seo.html",
+      "harf_sayisi": 1873,
+      "gorunur_karakter_sayisi": 2185,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "hizmet-teknik-seo-site-hizi.html",
+      "harf_sayisi": 1963,
+      "gorunur_karakter_sayisi": 2279,
+      "meta_karakter_sayisi": 148,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "hizmet-web-tasarim.html",
+      "harf_sayisi": 1938,
+      "gorunur_karakter_sayisi": 2253,
+      "meta_karakter_sayisi": 148,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "hizmet-yerel-seo-google-haritalar.html",
+      "harf_sayisi": 1907,
+      "gorunur_karakter_sayisi": 2219,
+      "meta_karakter_sayisi": 151,
+      "ic_baglantilar": [
+        "ANA"
+      ]
+    },
+    {
+      "dosya": "ilce-aksu.html",
+      "harf_sayisi": 1982,
+      "gorunur_karakter_sayisi": 2297,
+      "meta_karakter_sayisi": 149,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:icerik-site-ici-seo"
+      ]
+    },
+    {
+      "dosya": "ilce-atabey.html",
+      "harf_sayisi": 1879,
+      "gorunur_karakter_sayisi": 2183,
+      "meta_karakter_sayisi": 147,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:icerik-site-ici-seo"
+      ]
+    },
+    {
+      "dosya": "ilce-egirdir.html",
+      "harf_sayisi": 1920,
+      "gorunur_karakter_sayisi": 2221,
+      "meta_karakter_sayisi": 150,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:yerel-seo-google-haritalar"
+      ]
+    },
+    {
+      "dosya": "ilce-gelendost.html",
+      "harf_sayisi": 1851,
+      "gorunur_karakter_sayisi": 2158,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:teknik-seo-site-hizi"
+      ]
+    },
+    {
+      "dosya": "ilce-gonen.html",
+      "harf_sayisi": 1932,
+      "gorunur_karakter_sayisi": 2236,
+      "meta_karakter_sayisi": 147,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:web-tasarim"
+      ]
+    },
+    {
+      "dosya": "ilce-keciborlu.html",
+      "harf_sayisi": 1840,
+      "gorunur_karakter_sayisi": 2139,
+      "meta_karakter_sayisi": 146,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:yerel-seo-google-haritalar"
+      ]
+    },
+    {
+      "dosya": "ilce-merkez.html",
+      "harf_sayisi": 1933,
+      "gorunur_karakter_sayisi": 2237,
+      "meta_karakter_sayisi": 151,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:yerel-seo-google-haritalar"
+      ]
+    },
+    {
+      "dosya": "ilce-sarkikaraagac.html",
+      "harf_sayisi": 1806,
+      "gorunur_karakter_sayisi": 2099,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:web-tasarim"
+      ]
+    },
+    {
+      "dosya": "ilce-senirkent.html",
+      "harf_sayisi": 1895,
+      "gorunur_karakter_sayisi": 2199,
+      "meta_karakter_sayisi": 154,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:icerik-site-ici-seo"
+      ]
+    },
+    {
+      "dosya": "ilce-sutculer.html",
+      "harf_sayisi": 1876,
+      "gorunur_karakter_sayisi": 2176,
+      "meta_karakter_sayisi": 149,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:teknik-seo-site-hizi"
+      ]
+    },
+    {
+      "dosya": "ilce-uluborlu.html",
+      "harf_sayisi": 1868,
+      "gorunur_karakter_sayisi": 2168,
+      "meta_karakter_sayisi": 153,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:icerik-site-ici-seo"
+      ]
+    },
+    {
+      "dosya": "ilce-yalvac.html",
+      "harf_sayisi": 1852,
+      "gorunur_karakter_sayisi": 2156,
+      "meta_karakter_sayisi": 151,
+      "ic_baglantilar": [
+        "ANA",
+        "YAZI:1"
+      ]
+    },
+    {
+      "dosya": "ilce-yenisarbademli.html",
+      "harf_sayisi": 1829,
+      "gorunur_karakter_sayisi": 2119,
+      "meta_karakter_sayisi": 149,
+      "ic_baglantilar": [
+        "ANA",
+        "HIZMET:yerel-seo-google-haritalar"
+      ]
+    },
+    {
+      "dosya": "yazi-01-konaklama-isletmeleri-google-gorunurluk.html",
+      "harf_sayisi": 2684,
+      "gorunur_karakter_sayisi": 3116,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:egirdir",
+        "ILCE:merkez"
+      ]
+    },
+    {
+      "dosya": "yazi-02-meyve-ureticileri-google-gorunurluk.html",
+      "harf_sayisi": 2618,
+      "gorunur_karakter_sayisi": 3038,
+      "meta_karakter_sayisi": 148,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:gelendost",
+        "ILCE:senirkent"
+      ]
+    },
+    {
+      "dosya": "yazi-03-google-haritalar-kaydi.html",
+      "harf_sayisi": 2734,
+      "gorunur_karakter_sayisi": 3159,
+      "meta_karakter_sayisi": 152,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:keciborlu",
+        "ILCE:egirdir"
+      ]
+    },
+    {
+      "dosya": "yazi-04-seo-suresi-ucret-etkenleri.html",
+      "harf_sayisi": 2622,
+      "gorunur_karakter_sayisi": 3059,
+      "meta_karakter_sayisi": 155,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:merkez",
+        "ILCE:yalvac"
+      ]
+    },
+    {
+      "dosya": "yazi-05-google-gorunmeme-yedi-hata.html",
+      "harf_sayisi": 2712,
+      "gorunur_karakter_sayisi": 3158,
+      "meta_karakter_sayisi": 154,
+      "ic_baglantilar": [
+        "ANA",
+        "ILCE:atabey",
+        "ILCE:gonen"
+      ]
+    }
+  ],
+  "hatalar": [],
+  "harf_sayimi": "HTML yorumları ve etiketleri çıkarılır; iç linklerde yalnız görünen bağlantı metni sayılır. Unicode alfabetik karakterler harf kabul edilir.",
+  "zip_dosyasi": "ispartaseo.com.tr.zip",
+  "zip_bayt": 42043,
+  "zip_sha256": "ab72b409e480e99fa4e5b9f69e481d226f011fbf50376a0ffc3db5ea29c33e35",
+  "kontroller": {
+    "harf_araliklari": true,
+    "meta_karakter_araligi": true,
+    "tum_ilceler": true,
+    "ana_sayfa_tum_ic_baglantilar": true,
+    "html_etiketleri": true,
+    "zip_crc_ve_birebir_icerik": true,
+    "ozgun_META_aciklamalari": true,
+    "yazi_sonu_analiz_ve_ANA_ilce_baglantilari": true
+  },
+  "notlar": [
+    "Harf sayımı görünür metindeki alfabetik karakterlere dayanır; boşluk ve noktalama dahil görünür karakter sayısı ayrıca verilir.",
+    "İlçe uzaklıkları sayısal fiyat/rakam yasağına uygun olarak merkeze göre konumsal ve ulaşım ilişkileriyle anlatılır.",
+    "Özgünlük denetimi mevcut yerel arşivlerle ve bu partideki sayfalarla sınırlıdır; internetin tamamında benzerlik ölçümü iddia edilmez."
+  ],
+  "dosya_listesi": [
+    "ana-sayfa.html",
+    "hizmet-google-ads-yonetimi.html",
+    "hizmet-icerik-site-ici-seo.html",
+    "hizmet-teknik-seo-site-hizi.html",
+    "hizmet-web-tasarim.html",
+    "hizmet-yerel-seo-google-haritalar.html",
+    "ilce-aksu.html",
+    "ilce-atabey.html",
+    "ilce-egirdir.html",
+    "ilce-gelendost.html",
+    "ilce-gonen.html",
+    "ilce-keciborlu.html",
+    "ilce-merkez.html",
+    "ilce-sarkikaraagac.html",
+    "ilce-senirkent.html",
+    "ilce-sutculer.html",
+    "ilce-uluborlu.html",
+    "ilce-yalvac.html",
+    "ilce-yenisarbademli.html",
+    "yazi-01-konaklama-isletmeleri-google-gorunurluk.html",
+    "yazi-02-meyve-ureticileri-google-gorunurluk.html",
+    "yazi-03-google-haritalar-kaydi.html",
+    "yazi-04-seo-suresi-ucret-etkenleri.html",
+    "yazi-05-google-gorunmeme-yedi-hata.html"
+  ],
+  "ozgunluk_kontrolu": {
+    "kapsam": "Bu partideki 205 HTML ve depodaki önceki 30 ZIP arşivi",
+    "onceki_benzersiz_cumle_sayisi": 73058,
+    "yeni_sayfalarda_tekrar_cumle": 0,
+    "tekrar_uzun_paragraf": 0,
+    "onceki_arsivlerle_birebir_cumle_eslesmesi": 0,
+    "yontem": "Büyük/küçük harf ve kesme işaretleri normalize edilir; en az yirmi alfabetik karakterli cümle ve başlıklar, en az altmış beş alfabetik karakterli paragraflar karşılaştırılır."
+  }
+}
