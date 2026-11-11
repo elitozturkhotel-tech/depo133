@@ -1,0 +1,42 @@
+{
+  "articles": 222,
+  "archives": 12,
+  "files_per_archive": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    2
+  ],
+  "visible_letters_min": 1666,
+  "visible_letters_max": 1952,
+  "nonspace_max": 1989,
+  "body_letters_min": 1510,
+  "duplicate_paragraphs": 0,
+  "sha256": {
+    "havuz31-01.zip": "b1f21294cf2a086ac45af21cf6845b4210ac63a648763e7e664ed0d0d34c7d12",
+    "havuz31-02.zip": "0444e1e75022aa967c2dc0e85a9039e88ef4b41b249b075e2cda787a86d79d01",
+    "havuz31-03.zip": "e5727960609ff8abf7752347c1de824fd4e22d33233a103802aca7d63312f2d5",
+    "havuz31-04.zip": "b3215fc9db8763adc9cb252d3eda9f46a65b0f29bf23accc868ea836d7b31c96",
+    "havuz31-05.zip": "7585e67e781e026640c5d4a9c32d457b70fcc967bd26b35afe101b45d123ab4b",
+    "havuz31-06.zip": "b78818011bdbdacdb16db9a65653ab50d2047c959b61075f3967a7fbdaf1497a",
+    "havuz31-07.zip": "37aff15bb3733ed9ed86e751437c829581d6b8ade4542896191a73b3ed6b5188",
+    "havuz31-08.zip": "7b585b295bc92520fc17789d6cf8950701613ad9a750f931cdec7d2e6a30da7e",
+    "havuz31-09.zip": "eab913d0db27027873e64946b656e1b7f1c21707e2f9a61437c5ecb168169c1d",
+    "havuz31-10.zip": "9f1b042677c9b22f867196c612f26bb4fa311d9ab06bfe10f576f9791983f432",
+    "havuz31-11.zip": "d7d281d5f3889ac8d18211f0682cdd3e0a9100657c6df875365e0f3c8eabcb7f",
+    "havuz31-12.zip": "6d2069f8dd5af1a81a2be0d0776f20d8a68cfc8e32fb4b499458a2955dead4aa"
+  },
+  "duplicate_long_sentences": 0,
+  "duplicate_opening_sentences": 0,
+  "duplicate_closing_sentences": 0,
+  "shared_8word_phrases": 0,
+  "cross_reviewed_articles": 222
+}
