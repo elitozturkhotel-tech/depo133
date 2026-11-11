@@ -1,0 +1,36 @@
+{
+  "makale_sayisi": 42,
+  "zip_sayisi": 2,
+  "her_zipte_html": 21,
+  "gorunen_harf": {
+    "min": 1737,
+    "max": 3115
+  },
+  "yalniz_paragraf_harfi": {
+    "min": 1575,
+    "max": 2865
+  },
+  "ana_sayfa_paragraf_harfi": {
+    "min": 2752,
+    "max": 2865
+  },
+  "yan_sayfa_paragraf_harfi": {
+    "min": 1575,
+    "max": 1833
+  },
+  "tekrar_eden_paragraf_sayisi": 0,
+  "tekrar_eden_uzun_cumle_sayisi": 0,
+  "tekrar_eden_giris_cumlesi_sayisi": 0,
+  "tekrar_eden_kapanis_cumlesi_sayisi": 0,
+  "tekrar_eden_sekiz_kelimelik_ifade_sayisi": 0,
+  "baslik_manifest_eslesmesi": true,
+  "tek_h1_kontrolu": true,
+  "h2_sayisi_3_5": true,
+  "ana_kelime_yalniz_ana_sayfalar": true,
+  "semt_adi_2_3_govde_gecisi": true,
+  "siteler_arasi_semt_ayrimi": true,
+  "sha256": {
+    "havuz32-01.zip": "e8481905d893cdd74ed560f7dec56c7ae4b30a70cd02ec31f72ff9f349915fc1",
+    "havuz32-02.zip": "efc165a869169daf9e3a8a98f4e889091258da80cfe6b7f0bc72064e69bce697"
+  }
+}
